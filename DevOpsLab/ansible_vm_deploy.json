@@ -186,7 +186,7 @@
                 "autoUpgradeMinorVersion": true,
                 "settings": {
                     "fileUris": [
-                        "https://raw.githubusercontent.com/Microsoft/azuredevopslabs/master/labs/vstsextend/ansible/armtemplate/install_ansible.sh"
+                        "https://raw.githubusercontent.com/sykesjs/azure-ansible/master/DevOpsLab/install_ansible.sh"
                     ],
                     "commandToExecute": "sh install_ansible.sh"
                 }
